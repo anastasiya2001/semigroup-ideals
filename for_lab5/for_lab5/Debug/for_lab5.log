@@ -1,0 +1,22 @@
+﻿  for_lab5.cpp
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(72,12): warning C4101: m: неиспользованная локальная переменная
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(191,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(193,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(220,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(235,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(236,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(239,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(243,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(250,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(251,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(265,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(266,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(208,12): warning C4101: m: неиспользованная локальная переменная
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(17): warning C4715: Find1: значение возвращается не при всех путях выполнения
+D:\PUA\for_lab5\for_lab5\for_lab5.cpp(32): warning C4715: Find: значение возвращается не при всех путях выполнения
+  for_lab5.vcxproj -> D:\PUA\for_lab5\Debug\for_lab5.exe
